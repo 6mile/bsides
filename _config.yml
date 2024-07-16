@@ -5,3 +5,5 @@ cfp_close_date: August 14, 2024
 cfp_url: https://bsidesgoldie.com/cfp.html
 show_cfp: true
 logo_path: img/bsides-goldy-final.png
+plugins:
+  - jekyll-seo-tag
