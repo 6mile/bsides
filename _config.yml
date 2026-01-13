@@ -1,9 +1,9 @@
 year: 2026
 contact_email: bsidesgoldie@gmail.com
 event_date: May 23, 2026
-cfp_close_date: TBD
+cfp_close_date: February 28, 2026
 cfp_url: https://bsidesgoldie.com/cfp.html
-show_cfp: true
+show_cfp: false
 #logo_path: img/bsides-goldy-final.png
 logo_path: img/gc_bsides_circular_logo.png
 plugins:
